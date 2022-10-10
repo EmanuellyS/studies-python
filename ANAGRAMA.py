@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 25 08:12:22 2022
 
-@author: DISRCT
+@author: Emanuelly Silva
 """
 
 import random
